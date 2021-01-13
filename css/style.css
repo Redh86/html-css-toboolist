@@ -1,0 +1,102 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lightgrey;
+  font-family: 'Roboto'; sans-serif;
+}
+/* logo */
+
+.totalogo {
+  width: 100%;
+  background-color: white;
+  padding: 10px;
+  margin-bottom: 50px;
+
+}
+
+.logo {
+  height: 100%;
+  vertical-align: middle;
+}
+
+.scrittalogo {
+  font-size: 40px;
+  font-weight: 900;
+  vertical-align: middle;
+}
+
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.box {
+  padding: 10px 50px;
+  background-color: white;
+  border: 1px solid lightgrey;
+}
+/* button */
+
+.btn  {
+  padding: 5px 10px;
+  border-radius: 7px;
+}
+
+.btn_blue  {
+  background-color: #00beff;
+  color: white;
+  border: none;
+}
+
+.btn_white {
+  background-color: white
+}
+
+/* tubolist */
+
+li {
+  padding: 5px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.listitle {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.minibutton {
+  font-size: 70%;
+  color: white;
+  display: inline;
+  padding: 5px 10px;
+  border-radius: 10px;
+  background-color: #00beff;
+  margin: 3px;
+}
+
+#purple {
+  background-color: purple;
+}
+
+#watergreen {
+  background-color: #00ffa7;
+}
+
+#orange {
+  background-color: orange;
+}
+
+#redpink {
+  background-color: #ef3d5c;
+}
+
+#green {
+  background-color: green;
+}
